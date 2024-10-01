@@ -12,6 +12,8 @@ all code written by Shareen Rahmathulla using the starter code provided by EdX B
 - time
 - scipy.stats
 - json
+- geoviews
+- hvplot
 ## Concepts
 - Retrieved and used data from an API to server
 - Created scatter plots using the Matplotlib library, adding styles and features to plots
